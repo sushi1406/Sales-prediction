@@ -28,7 +28,6 @@ The dataset used in this project consists of various features that influence sal
 - **Newspaper**: Advertising budget spent on Newspapers (in thousands of dollars)
 - **Sales**: Sales of the product (in thousands of units)
 
-The dataset is stored in the `data/` directory as `sales_data.csv`.
 
 ## Methodology
 
